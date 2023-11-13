@@ -13,3 +13,10 @@ Variables
 For in/of loop
 Destracting
 Ternary operator
+
+
+#session 4:
+Module
+JSON
+Asyncronous
+Fetch API
